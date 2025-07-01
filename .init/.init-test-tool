@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/bookquery-ai-98711-98721/fastapi_backend"
+}
